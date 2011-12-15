@@ -7,7 +7,7 @@
                               MegaGlest Data Source README
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-
+==================================================
 Using Blender 3.61 to export models to G3D format:
 ==================================================
 
@@ -31,3 +31,26 @@ Using Blender 3.61 to export models to G3D format:
 
 6. Now you are ready to import / export. (from the file menu select Import or
    Export and the G3d File option should be displayed).
+
+==================================================
+Model preparation and some hints to export to G3D:
+==================================================
+
+Texture/Material:
+=================
+Textures are the 2D images placed on 3D models to give them their surface looks. 
+For example, a simple cube model could be turned into a wooden box, or a man 
+could have clothing designed for him. To apply the texture, the modeller must 
+link the texture to the model.
+
+Linking the texture:
+--------------------
+   1. Go to the shading screen of the buttons window.
+   2. Head to the material buttons subscreen.
+   3. Add a new link to the object.
+   4. Head to the texture buttons subscreen.
+   5. Add a new texture
+   6. Set the type to image.
+   7. Load the image. 
+
+
