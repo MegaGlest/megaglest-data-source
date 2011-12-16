@@ -11,12 +11,12 @@ For tutorials and videos relating to how to work in blender and Glest see:
 http://glest.wikia.com/wiki/Blender
 
 ==================================================
-Using Blender 3.61 to export models to G3D format:
+Using Blender 2.4x - 2.6x to export models to G3D format:
 ==================================================
 
 1. Install Megaglest or Acquire the blender python plugin
 
-2. Install Blender 2.5x or 2.6x
+2. Install a version of Blender (2.4x - 2.6x)
 
 3. Run blender, then on the top left-hand corner click on "file". In the list 
    that pops up select "user preferences". In Tab "Addons" Now go to categories 
