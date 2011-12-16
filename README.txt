@@ -7,6 +7,9 @@
                               MegaGlest Data Source README
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
+For tutorials and videos relating to how to work in blender and Glest see:
+http://glest.wikia.com/wiki/Blender
+
 ==================================================
 Using Blender 3.61 to export models to G3D format:
 ==================================================
