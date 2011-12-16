@@ -13,14 +13,18 @@ Using Blender 3.61 to export models to G3D format:
 
 1. Install Megaglest or Acquire the blender python plugin
 
-2. Install Blender 2.61
+2. Install Blender 2.5x or 2.6x
 
 3. Run blender, then on the top left-hand corner click on "file". In the list 
    that pops up select "user preferences". In Tab "Addons" Now go to categories 
    and pick "Import-Export". Click "Install Add-on". Now navigate to your 
    "MegaGlest/blender" folder (or where-ever you have the blender python plugin 
-   located), and pick the file called "g3d_support.py" and click 
-   "install add-on".
+   located), and pick the file called:
+   Blender < 2.5x: g3d_support.py
+   or Blender < 2.6x: g3d_support_b257.py
+   or Blender = 2.6x: g3d_support_b260.py
+
+   and click "install add-on".
 
 4. Now the G3D importer/exporter should show up on your import/export list, 
    in the user preferences addons view. The Plugin will be called 
